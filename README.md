@@ -1,1 +1,2 @@
-# Coding-study-w-DL
+# Coding study w/DL
+Course made by seungeun
